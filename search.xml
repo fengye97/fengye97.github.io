@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>text_my_site</title>
+    <title>text-my-site</title>
     <url>/2020/02/06/text-my-site/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>安装node.js网站：<a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a></p>
+<p>百度：<a href="https://www.baidu.com" target="_blank" rel="noopener">https://www.baidu.com</a></p>
+<hr>
+<p>title: text_my_site<br>date: 2020-02-06 12:49:23<br>tags:</p>
+<hr>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
