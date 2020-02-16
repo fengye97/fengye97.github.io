@@ -9,7 +9,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>选择有时候比努力更重要</description>
-    <pubDate>Sun, 16 Feb 2020 04:46:00 GMT</pubDate>
+    <pubDate>Sun, 16 Feb 2020 11:42:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -26,7 +26,7 @@
       </description>
       
       
-      <content:encoded><![CDATA[<p>安装node.js网站：<a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a></p><p>百度：<a href="https://www.baidu.com" target="_blank" rel="noopener">https://www.baidu.com</a></p><p>代码：<code>git clone</code></p><a id="more"></a><hr><p>title: text_my_site<br>date: 2020-02-06 12:49:23<br>tags:</p><hr>]]></content:encoded>
+      <content:encoded><![CDATA[<p>安装node.js网站：<a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a></p><p>百度：<a href="https://www.baidu.com" target="_blank" rel="noopener">https://www.baidu.com</a></p><p>代码：<code>git clone</code></p><a id="more"></a><hr><p>title: text_my_site<br>date: 2020-02-06 12:49:23<br>tags:<br>top: true</p><hr>]]></content:encoded>
       
       <comments>http://fengyebg.com/2020/02/06/text-my-site/#disqus_thread</comments>
     </item>
